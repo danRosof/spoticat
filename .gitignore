@@ -1,1 +1,4 @@
-spotify/credentials.py
+spotify/.env
+.venv
+db.sqlite3
+.DS_Store
