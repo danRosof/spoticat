@@ -17,6 +17,7 @@ REDIRECT_URI = env("REDIRECT_URI")
 CLIENT_ID = env("CLIENT_ID")
 CLIENT_SECRET = env("CLIENT_SECRET")
 
+
 # inherit from APIView
 # API end point that returns a url
 class AuthURL(APIView):
